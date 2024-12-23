@@ -1,10 +1,10 @@
 # id_mgmt
 Integer ID management library
 
-############### License ################################
+### License ####
 This project is under Apache license 2.0
 
-############### ID Management Library ##################
+### ID Management Library ###
 
 ### Introduction ###
     This library provides user with integer id whose values
@@ -68,3 +68,5 @@ This project is under Apache license 2.0
     Enter option: 5 to  print BST (or 4 to quit): 
     Enter option: (or 4 to quit): 
 
+### Contact Us ###
+If you have questions or feedback to share, you can reach me by emailing at: jntupal@gmail.com
